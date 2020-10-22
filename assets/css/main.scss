@@ -83,15 +83,15 @@ template.
 @import "sass/helpers/variables";
 @import "sass/helpers/mixins";
 /*  ==========
-    pages
-    ========== */
+       pages
+      ========== */
 @import "sass/pages/globalpage";
-/*   =========
-    layout (Sections)
-    ========== */
+/* =========
+   layout (Sections)
+  ========== */
 /*
-You can edit any section here (Layout)
-*/
+      You can edit any section here (Layout)
+    */
 @import "sass/layout/header";
 @import "sass/layout/banner_section";
 @import "sass/layout/logos";
@@ -121,8 +121,8 @@ You can edit any section here (Layout)
 @import "sass/layout/projects";
 
 /*   =========
-    components
-    ========== */
+            components
+            ========== */
 @import "sass/components/effects";
 @import "sass/components/button";
 @import "sass/components/form";
@@ -134,7 +134,7 @@ You can edit any section here (Layout)
 @import "sass/components/pagination";
 @import "sass/components/alert";
 
-/*   =========
-    layout (Footer)
-    ========== */
+/* =========
+     layout (Footer)
+      ========== */
 @import "sass/layout/footer";

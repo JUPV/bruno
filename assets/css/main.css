@@ -98,8 +98,8 @@ template.
   mixin animation
 -----------------------------*/
 /*  ==========
-    pages
-    ========== */
+       pages
+      ========== */
 /*-----------------------------
   Yeseva One
   Designed by Jovanny Lemonad
@@ -3068,12 +3068,12 @@ img {
   transition: 0.3s !important;
 }
 
-/*   =========
-    layout (Sections)
-    ========== */
+/* =========
+   layout (Sections)
+  ========== */
 /*
-You can edit any section here (Layout)
-*/
+      You can edit any section here (Layout)
+    */
 /*
     CSS Table of Sections
     --------------------------
@@ -15899,8 +15899,8 @@ software_web
 }
 
 /*   =========
-    components
-    ========== */
+            components
+            ========== */
 /*-----------------------------
   ripple
 -----------------------------*/
@@ -19460,9 +19460,9 @@ html:not(.no-js) [data-aos="fade-up"] {
   background-color: rgba(11, 34, 56, 0.15);
 }
 
-/*   =========
-    layout (Footer)
-    ========== */
+/* =========
+     layout (Footer)
+      ========== */
 /*
     CSS Table of Sections
     --------------------------
